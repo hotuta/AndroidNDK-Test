@@ -1,0 +1,8 @@
+//
+// Created by hotuta on 2015/10/06.
+//
+
+#ifndef SIMPLEANDROIDNDK_HELLO_H
+#define SIMPLEANDROIDNDK_HELLO_H
+
+#endif //SIMPLEANDROIDNDK_HELLO_H
