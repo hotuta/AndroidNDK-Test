@@ -1,3 +1,3 @@
-# SimpleAndroidNDK
+# AndroidNDK-Test
 
-http://www.nukoneko.info/blog/?p=439
+お察しください。
